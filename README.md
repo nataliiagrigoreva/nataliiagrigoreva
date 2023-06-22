@@ -17,3 +17,4 @@ Swift, SwiftUI, UIKit, WidgetKit, Xcode MVC/MVVM/MVP Core Data, Auto Layout, OOP
 
 ### SwiftUI:
 - [Widget](https://github.com/nataliiagrigoreva/widgetswiftui)
+- [App](https://github.com/nataliiagrigoreva/AppSwiftUI)
