@@ -8,7 +8,7 @@
 ### Мои навыки:
 Swift, SwiftUI, UIKit, WidgetKit, Xcode MVC/MVVM/MVP Core Data, Auto Layout, OOP, GCD, Combine, Alamofire, Git, Foundation, CocoaPods, Xib, REST API, Localization, SOLID, Agile, Jira
 
-### UIKit:
+### iOS:
 - [Курсовая работа по iOS](https://github.com/nataliiagrigoreva/BudgetApp)
 - [Дипломная работа по iOS](https://github.com/nataliiagrigoreva/ARMonstersApp)
 - [Проект для VK - симулятор вируса](https://github.com/nataliiagrigoreva/simulationVirus)
