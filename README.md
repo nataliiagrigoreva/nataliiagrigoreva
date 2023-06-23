@@ -14,6 +14,7 @@ Swift, SwiftUI, UIKit, WidgetKit, Xcode MVC/MVVM/MVP Core Data, Auto Layout, OOP
 - [Проект для VK - симулятор вируса](https://github.com/nataliiagrigoreva/simulationVirus)
 - [Мини-игра "Угадай цифру" с использованием Combine](https://github.com/nataliiagrigoreva/guessnumbercombine)
 - [Мини-игра "Слови рыбку"](https://github.com/nataliiagrigoreva/caughtFishApp)
+- [Гиперказуальная игра для Альфа Банка -для геймификации акции с блогером](https://github.com/nataliiagrigoreva/AlfaBank)
 
 ### SwiftUI:
 - [Widget](https://github.com/nataliiagrigoreva/widgetswiftui)
