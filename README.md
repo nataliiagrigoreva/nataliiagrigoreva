@@ -6,7 +6,7 @@
 
 
 ### Мои навыки:
-Swift, SwiftUI, UIKit, WidgetKit, Xcode MVC/MVVM/MVP Core Data, Auto Layout, OOP, GCD, Combine, Alamofire, Git, Foundation, CocoaPods, Xib, REST API, Localization, SOLID, Agile, Jira
+Swift, SwiftUI, UIKit, WidgetKit, Push notification, Xcode, MVC/MVVM/MVP, Core Data, Auto Layout, OOP, GCD, Combine, Alamofire, Git, Foundation, CocoaPods, Xib, REST API, Localization, SOLID, Agile, Jira
 
 ### iOS:
 - [Курсовая работа по iOS - приложение для персонального учета доходов и расходов ](https://github.com/nataliiagrigoreva/BudgetApp)
