@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi there, I'm Nataliia</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">iOS developer</h3>
+<h3 align="center">Project Manager + iOS developer</h3>
 <h3 align="center">My<a href="https://www.linkedin.com/in/nataliia-grigoreva-b56a607a" target="_blank"> LinkedIn </h3>
 
 
 ### Мои навыки:
-Swift, SwiftUI, UIKit, WidgetKit, Push notification, Xcode, MVC/MVVM/MVP, Core Data, Auto Layout, OOP, GCD, Combine, Alamofire, Git, Foundation, CocoaPods, Xib, REST API, Localization, SOLID, Agile, Jira
+Swift, SwiftUI, UIKit, WidgetKit, Push notification, Xcode, MVC/MVVM/MVP, Core Data, Auto Layout, OOP, GCD, Combine, Alamofire, Git, Foundation, CocoaPods, Xib, REST API, Localization, SOLID, Agile, Jira, Bitrix, Figma, SQL, Confluence
 
 ### iOS:
 - [Курсовая работа по iOS - приложение для персонального учета доходов и расходов ](https://github.com/nataliiagrigoreva/BudgetApp)
